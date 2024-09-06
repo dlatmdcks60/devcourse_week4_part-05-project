@@ -17,7 +17,10 @@
 
 ### *실행 결과*
 #### `회원 가입`
+<img width="1130" alt="스크린샷 2024-09-06 오후 5 56 03" src="https://github.com/user-attachments/assets/e33a4422-5b81-429c-a29d-793b944a5fca">
 
 #### `회원 개별 조회`
+<img width="1130" alt="스크린샷 2024-09-06 오후 5 56 33" src="https://github.com/user-attachments/assets/0fdcbea9-e726-49c4-9382-7020af628cc9">
 
 #### `회원 개별 탈퇴`
+<img width="1130" alt="스크린샷 2024-09-06 오후 5 56 43" src="https://github.com/user-attachments/assets/206f1e3f-b87e-4a6b-aaeb-8b375bb00cbb">
